@@ -1,6 +1,6 @@
 # AirQuality-WSN-Sabana: Monitoreo IoT de Calidad del Aire
 
-Bienvenido al repositorio oficial del proyecto de conectividad IoT para el monitoreo de material particulado (PM2.5) en los municipios de Cota, Tabio y Tenjo.
+Bienvenido al repositorio oficial del proyecto de conectividad IoT para el monitoreo de la calidad del aire en los municipios de Cota, Tabio y Tenjo.
 
 <p align="center">
   <img src="imagenes/Ecosistema-Miniatura.png" alt="Ecosistema Miniatura del Proyecto IoT Sabana Centro" width="100%">

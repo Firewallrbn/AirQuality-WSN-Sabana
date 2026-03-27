@@ -10,7 +10,7 @@ Bienvenido al repositorio oficial del proyecto de conectividad IoT para el monit
 
 Toda la información detallada sobre el diseño de la red, la implementación del protocolo MQTT, el código fuente de los SBC y el proceso de validación en Cisco Packet Tracer se encuentra en nuestra Wiki.
 
-👉 <a href="https://github.com/Firewallrbn/AirQuality-WSN-Sabana/wiki/Dise%C3%B1o">WIKI<a/>👈
+👉 <a href="https://github.com/Firewallrbn/AirQuality-WSN-Sabana/wiki/home">WIKI<a/>👈
 
 ---
 

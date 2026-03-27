@@ -3,7 +3,7 @@
 Bienvenido al repositorio oficial del proyecto de conectividad IoT para el monitoreo de material particulado (PM2.5) en los municipios de Cota, Tabio y Tenjo.
 
 <p align="center">
-  <img src="Ecosistema-Miniatura.png" alt="Ecosistema Miniatura del Proyecto IoT Sabana Centro" width="100%">
+  <img src="imagenes/Ecosistema-Miniatura.png" alt="Ecosistema Miniatura del Proyecto IoT Sabana Centro" width="100%">
 </p>
 
 ## 🚀 Acceso a la Documentación Completa
@@ -21,5 +21,5 @@ Toda la información detallada sobre el diseño de la red, la implementación de
 * **Formato de Datos:** JSON
 
 ### 👥 Integrantes del Equipo
-* [Tu Nombre Completo]
-* [Nombre Completo de tu Compañero]
+* Juan David Cruz Angel
+* Julian David Aguilar Zambrano
